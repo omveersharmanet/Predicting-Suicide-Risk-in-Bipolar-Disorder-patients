@@ -1,0 +1,14 @@
+sample_label,batch,diagnosis,condition,patient,sex,age
+492,1,BD,Non-suicidal,1,F,37
+709,1,BD,Non-suicidal,2,F,36
+637,1,BD,Non-suicidal,3,M,33
+794,1,BD,Non-suicidal,4,M,33
+276,1,BD,Non-suicidal,5,F,40
+250,1,BD,Non-suicidal,6,F,52
+12,1,BD,Non-suicidal,7,F,48
+789,1,BD,Suicidal,8,M,70
+66,1,BD,Suicidal,9,M,21
+151,1,BD,Suicidal,10,F,25
+405,1,BD,Suicidal,11,M,39
+115,1,BD,Suicidal,12,M,33
+1754,1,BD,Suicidal,13,F,46
